@@ -1,0 +1,32 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
+
+# common non-essential files.
+*.mem
+*.jld2
+*.tex
+*.so
+*.o
+*.dlm
+*.svg
+*.png
+*.svg
+*.eps
+*.csv
+*.txt
+*.gz
+*.pdf
+*.dat 
+*.npz
